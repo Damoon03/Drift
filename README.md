@@ -22,13 +22,10 @@ Instead of organizing memories by date, Drift lets you attach your thoughts to r
 
 ## Screenshots
 
-| Map | Note |
-|------|------|
 | <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5fcb3ea-829a-4359-a568-3702cd3754c7" width="300" alt="Settings"/>
-  <img src="https://github.com/user-attachments/assets/eb8b51c9-8ed0-4d0f-9394-0c214ca3a482" width="300" alt="Map"/>
   <img src="https://github.com/user-attachments/assets/7c614134-e8d4-4367-874b-9cc9889f6fd9" width="300" alt="Main"/>
   <img src="https://github.com/user-attachments/assets/68b788c0-a200-490a-a719-750659c8fe2c" width="300" alt="Archive"/>
+   <img src="https://github.com/user-attachments/assets/eb8b51c9-8ed0-4d0f-9394-0c214ca3a482" width="300" alt="Map"/>
 </p> |
 
 ---
