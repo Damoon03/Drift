@@ -1,8 +1,10 @@
 # Drift 🌙
 
-Drift is a minimalist location-based journaling app built with **SwiftUI**.
+A quiet space to capture the moments that pass too quickly.
 
-Instead of organizing memories by date, Drift lets you attach your thoughts to real places. Every journal entry belongs somewhere on the map, making your memories feel connected to the places where they happened.
+Write down your thoughts, record the sounds around you, and preserve the small details of your day before they disappear.
+
+Drift is not about documenting what happened — it’s about remembering how it felt.
 
 > Write less. Remember more.
 
